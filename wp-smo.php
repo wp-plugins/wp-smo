@@ -3,7 +3,7 @@
 Plugin Name: WP SMO
 Plugin URI: http://tonyarchambeau.com/
 Description: Add some meta data to improve the Social Media Optimization (SMO) of your website/blog.
-Version: 1.0.0
+Version: 1.0.1
 Author: Tony Archambeau
 Author URI: http://tonyarchambeau.com/
 Text Domain: wp-mo
