@@ -3,8 +3,8 @@ Contributors: funnycat
 Donate link: http://www.infowebmaster.fr/dons.php
 Tags: Facebook, metadata, ogp, opengraph, open graph data, share, social, Twitter
 Requires at least: 3.0
-Tested up to: 3.6.1
-Stable tag: 1.0.0
+Tested up to: 3.7.1
+Stable tag: 1.0.1
 License: GPLv2 or later
 
 
@@ -41,6 +41,9 @@ No. The plugin will use default values for each page/post if you do not fill the
 
 
 == Changelog ==
+
+= 1.0.1 =
+Solve a problem if there was no ID for the current page
 
 = 1.0 =
 Initial Release.

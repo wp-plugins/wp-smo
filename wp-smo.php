@@ -366,7 +366,13 @@ function wpsmo_header_func() {
   $image_url = wp_get_attachment_url( get_post_thumbnail_id( get_the_ID() ) );
   
   // get the excerpt + content
-  $post = get_post();
+  $current_id = @get_the_ID();
+  $post = get_post( $current_id );
+  
+  // make sure there is an ID
+  if ( $post == null ) {
+	return '';
+  }
   
   // Here are the limits :
   // - Google+ og meta description : 200 characters
