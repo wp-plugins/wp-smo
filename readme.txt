@@ -3,7 +3,7 @@ Contributors: funnycat
 Donate link: http://www.infowebmaster.fr/dons.php
 Tags: Facebook, metadata, ogp, opengraph, open graph data, share, social, Twitter
 Requires at least: 3.0
-Tested up to: 3.7.1
+Tested up to: 3.8.0
 Stable tag: 1.0.1
 License: GPLv2 or later
 
@@ -26,7 +26,7 @@ Be carefull, this plugin does not add the social button such as the Facebook lik
 *   For each pages or posts you have the possibility to add a Twitter account of the author
 
 
-Want a WordPress developper? Feel free to <a href="http://en.tonyarchambeau.com/contact.html">contact me</a>.
+Want a WordPress developper? Want to add a translation? Feel free to <a href="http://en.tonyarchambeau.com/contact.html">contact me</a>.
 
 
 == Installation ==
