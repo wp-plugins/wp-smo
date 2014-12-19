@@ -3,7 +3,7 @@ Contributors: funnycat
 Donate link: http://www.infowebmaster.fr/dons.php
 Tags: Facebook, metadata, ogp, opengraph, open graph data, share, social, Twitter
 Requires at least: 3.0
-Tested up to: 4.0.0
+Tested up to: 4.1.0
 Stable tag: 1.0.1
 License: GPLv2 or later
 
